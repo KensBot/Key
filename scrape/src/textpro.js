@@ -1,1 +1,1 @@
-module.exports = require('./textpro/api');
+module.exports = require('./photooxy/text');
